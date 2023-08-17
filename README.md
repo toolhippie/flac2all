@@ -1,6 +1,6 @@
 # flac2all
 
-[![Docker Build](https://github.com/toolhippie/flac2all/workflows/docker/badge.svg)](https://github.com/toolhippie/flac2all/actions?query=workflow%3Adocker) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/flac2all) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/thegeeklab/flac2all)
+[![Docker Build](https://github.com/toolhippie/flac2all/workflows/docker/badge.svg)](https://github.com/toolhippie/flac2all/actions?query=workflow%3Adocker) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/flac2all) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/ZivaVatra/flac2all)
 
 All these images are used for various scriptings, it's possible that any of
 these tools are updated randomly
