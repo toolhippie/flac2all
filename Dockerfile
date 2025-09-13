@@ -2,7 +2,7 @@ FROM ghcr.io/dockhippie/alpine:3.22
 ENTRYPOINT [""]
 
 # renovate: datasource=pypi depName=flac2all
-ENV FLAC2ALL_VERSION=5.1
+ENV FLAC2ALL_VERSION=5.4
 
 RUN apk update && \
   apk upgrade && \
